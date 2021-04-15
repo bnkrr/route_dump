@@ -1,0 +1,7 @@
+TIME_YEAR=2020
+TIME_MONTH=03
+TIME_DAY=31
+TIME_HOUR=1600
+
+PY_PATH=/usr/bin/python3
+BASE_DIR=/path/to/route-tables
